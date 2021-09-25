@@ -1,7 +1,9 @@
 ### Hi there 👋, my name is Stefana
 <hr>
 I am Front-End developer, learning to be a Full-Stack dev 💪
+<br>
 With a passion for creativity and problem-solving, with a knack for building simple and user friendly websites without cutting short on functionality, design and speed. 
+<br>
 I discovered my passion for coding in 2019 and since then I try my best too become o frontend developer😍.
 <hr>
 <h3 align="left">Languages and Tools:</h3>
