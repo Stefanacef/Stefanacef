@@ -18,7 +18,7 @@ Get to Know Me
 <br>
 😄 Pronouns: she/her
 <br>
-⚡ Fun fact: I like to read, travel and I am the worst cook.
+⚡ Fun fact: I like to read, travel and I am the best cook.
 <br>
 <hr>
 <h3 align="left">Languages and Tools:</h3>
