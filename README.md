@@ -8,6 +8,7 @@ I discovered my path in 2019 and since then I have tried my best to become a fro
 
 Get to Know Me
 🔭 I’m currently working on becoming a Full Stack Developer
+<br>
 🌱 I’m currently learning ReactJS and always learning Javascript
 👯 I’m looking to collaborate on web development projects
 💬 Ask me about front end development
