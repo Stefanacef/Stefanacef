@@ -34,4 +34,4 @@ Get to Know Me
 <a href="https://twitter.com/@stefana37225956" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@stefana37225956" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ștefana-maria fărcașu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ștefana-maria fărcașu" height="30" width="40" /></a>
 </p>
-[Home page](url https://stefana-farcasu.netlify.app/)
+ My personal portfolio: https://stefana-farcasu.netlify.app/
