@@ -1,4 +1,5 @@
 ## Hi there 👋, my name is Stefana
+My approach is simple: to make something great, make it personal. Because isn't homemade always better than fast fare? 
 <hr>
 I am a front-end developer, learning to be a Full-Stack dev 💪
 <br>
@@ -6,7 +7,7 @@ With a passion for creativity and problem-solving, with a knack for building sim
 <br>
 I discovered my path in 2019 and since then I have tried my best to become a front-end developer 😍.
 <br>
-### My approach is simple: to make something great, make it personal. Because isn't homemade always better than fast fare? 
+
 <br>
 Get to Know Me
 <br>
