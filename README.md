@@ -1,7 +1,7 @@
 ## Hi there 👋, my name is Stefana
 My approach is simple: to make something great, make it personal. Because isn't homemade always better than fast fare? 
 <hr>
-I am a front-end developer, learning to be a Full-Stack dev 💪
+I am a front-end developer, learning React 💪
 <br>
 With a passion for creativity and problem-solving, with a knack for building simple and user friendly websites without cutting short on functionality, design and speed.
 <br>
