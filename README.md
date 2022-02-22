@@ -11,17 +11,19 @@ I discovered my path in 2019 and since then I have tried my best to become a fro
 <br>
 Get to Know Me
 <br>
-🔭 I’m currently working on becoming a Full Stack Developer
-<br>
+<h4> 😎 I'm currently volunteering for two wonderful companies <h4>
+ 
 🌱 I’m currently learning ReactJS and always learning Javascript
-<br>
+<br> 
+ 
 👯 I’m looking to collaborate on web development projects
 <br>
+ 
 💬 Ask me about front end development
 <br>
+ 
 😄 Pronouns: she/her
-<br>
-⚡ Fun fact: I like to read, travel and I am the best cook.
+
 <br>
 <hr>
 <h3 align="left">Languages and Tools:</h3>
